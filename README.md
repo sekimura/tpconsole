@@ -57,7 +57,7 @@ There are two other options you can specify.
 ## Feedback ##
 
 For issues pertaining to tpconsole only, use
-[the issue tracker on github](https://github.com/saymedia/tpconsole/issues).
+[the issue tracker on github](https://github.com/sekimura/tpconsole/issues).
 For issues with the TypePad JSON API or other aspects of TypePad's platform,
 please refer to [the developer docs](http://www.typepad.com/services/apidocs)
 
